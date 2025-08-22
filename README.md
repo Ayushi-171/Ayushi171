@@ -26,7 +26,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="(https://github-readme-stats.vercel.app/api?username=Ayushi171&show_icons=true&theme=radical&custom_title=Frontend%20Developer's%20Stats)
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayushi171&show_icons=true&theme=radical&custom_title=Frontend%20Developer's%20Stats"
 />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushi171&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
 </p>
