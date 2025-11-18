@@ -35,7 +35,7 @@
 
 ## 🌐 Portfolio
 
-🔗 [Check out my portfolio here](file:///C:/Users/91810/OneDrive/Documents/vs_code/Classroom/PROJECT/Portfolio/Portfolio.html) 
+🔗 [Check out my portfolio here]((https://github.com/Ayushi-171/My_Portfolio)) 
 
 ---
 
