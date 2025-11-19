@@ -35,7 +35,7 @@
 
 ## 🌐 Portfolio
 
-🔗 [Check out my portfolio here](https://github.com/Ayushi-171/My_Portfolio)
+🔗 [Check out my portfolio here](https://ayushi-171.github.io/My_Portfolio/)
 
 ---
 
